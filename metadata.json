@@ -1,0 +1,5 @@
+{
+  "name": "CineStream AI",
+  "description": "Une plateforme de streaming vidéo HD premium avec un assistant de recommandation alimenté par Gemini.",
+  "requestFramePermissions": []
+}
